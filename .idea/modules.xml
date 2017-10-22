@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laba4.iml" filepath="$PROJECT_DIR$/.idea/modules/laba4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laba4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/laba4_main.iml" group="laba4" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/laba4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/laba4_test.iml" group="laba4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refactored-labs.iml" filepath="$PROJECT_DIR$/.idea/modules/refactored-labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refactored-labs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/refactored-labs_main.iml" group="refactored-labs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refactored-labs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/refactored-labs_test.iml" group="refactored-labs" />
     </modules>
   </component>
 </project>

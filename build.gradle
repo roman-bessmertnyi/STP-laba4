@@ -3,7 +3,6 @@ version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = 'Main'
 apply plugin: 'jacoco'
 
 sourceCompatibility = 1.6
@@ -32,7 +31,6 @@ jar {
     }
 }
 
-/*
 task codeCoverageReport(type: JacocoReport) {
     def coverageSourceDirs = [
             'src/main/java',
@@ -52,7 +50,6 @@ task codeCoverageReport(type: JacocoReport) {
         csv.enabled false
     }
 }
-*/
 
 codeCoverageReport.dependsOn {
     subprojects*.task(test)

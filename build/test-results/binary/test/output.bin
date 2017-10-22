@@ -1,86 +1,39 @@
-The start square matrix is: 
-7-919106045 273818159 977728123 -50647198 -1508463608 
-:-1773450939 2109651982 -1086945499 151546628 1164472537 
-6-500094847 -896494136 1428514409 156153462 60812900 
-8833315396 1537652278 1897277258 -197828934 -381573010 
-9489497228 -681464276 -1308863320 985899169 -1257276287 
-!The obtained square matrix is: 
--919106045  1  1  1  0  
-0  2109651982  0  0  0  
-0  0  1428514409  0  0  
-0  1  1  -197828934  0  
-1  0  0  1  -1257276287  
-The start square matrix is: 
-The start square matrix is: 
-9-272603107 -1114659933 -778817352 1289560203 286124714 
-8-209463484 898461778 -554682180 1336133666 -657922178 
-;-1699928396 1762943592 1511843226 -629978355 -1959422185 
-7-96264597 270175324 -772867368 -236309750 1778912330 
-:-1413386244 -182386571 1477697705 1733658192 1069056425 
-!The obtained square matrix is: 
--272603107  0  0  1  1  
-1  898461778  0  1  0  
-0  1  1511843226  0  0  
-0  0  0  -236309750  1  
-0  1  1  1  1069056425  
-The start square matrix is: 
-81811321564 1254786041 422887077 284178026 -2078689532 
-91378426300 317196898 1064812829 -984582760 -1381641578 
-<-1759996947 -1289248187 1145379538 -1151161431 -678595379 
-:1493073384 -1451241866 207793713 -1034413698 -210551890 
-7498760963 2075713185 987426764 -262358880 1609408548 
-The start square matrix is: 
-!The obtained square matrix is: 
-
-The start matrix is: 
-
-2 4 1 2 1 
-
-1 0 1 4 4 
-
-0 0 3 3 4 
-
-4 4 4 4 2 
-
-0 0 0 2 3 
-$The sum on the main diagonal is: 0
-#The sum above main diagonal is: 0
-#The sum below main diagonal is: 0
-$The sum on the main diagonal is: 0
-#The sum above main diagonal is: 0
-#The sum below main diagonal is: 0
-7Used memory in bytes: 2482280; in megabytes: 2,367287 
-OddEvenSort has executed.
-Used memory in bytes: 1983848; in megabytes: 1,891945 
-The runtime of bubble sort algorithm is 20 ms
+The start matrix is: 
+1 1 2 4 1 
+4 3 1 2 1 
+0 1 3 0 2 
+0 1 1 0 4 
+2 2 3 2 3 
+OddEvenSort has executed.
+Used memory in bytes: 3039680; in megabytes: 2.898865 
+The runtime of bubble sort algorithm is 31 ms
 
-|CombSort has executed.
-Used memory in bytes: 1986000; in megabytes: 1,893997 
-The runtime of comb sort algorithm is 19 ms
+|CombSort has executed.
+Used memory in bytes: 1914672; in megabytes: 1.825974 
+The runtime of comb sort algorithm is 34 ms
 
-†JavaUtilSort has executed.
-Used memory in bytes: 1985752; in megabytes: 1,893761 
-The runtime of dual-pivot sort algorithm is 18 ms
+†JavaUtilSort has executed.
+Used memory in bytes: 1913904; in megabytes: 1.825241 
+The runtime of dual-pivot sort algorithm is 20 ms
 
-|CombSort has executed.
-Used memory in bytes: 1986952; in megabytes: 1,894905 
-The runtime of comb sort algorithm is 30 ms
+	|CombSort has executed.
+Used memory in bytes: 1914072; in megabytes: 1.825401 
+The runtime of comb sort algorithm is 15 ms
 
-†SelectionSort has executed.
-Used memory in bytes: 1988024; in megabytes: 1,895927 
-The runtime of selection sort algorithm is 29 ms
+
+†SelectionSort has executed.
+Used memory in bytes: 1916312; in megabytes: 1.827538 
+The runtime of selection sort algorithm is 18 ms
 
-~QuickSort has executed.
-Used memory in bytes: 1988880; in megabytes: 1,896744 
-The runtime of quick sort algorithm is 11 ms
+~QuickSort has executed.
+Used memory in bytes: 1916856; in megabytes: 1.828056 
+The runtime of quick sort algorithm is 31 ms
 
-€BubbleSort has executed.
-Used memory in bytes: 1989664; in megabytes: 1,897491 
-The runtime of bubble sort algorithm is 12 ms
+€BubbleSort has executed.
+Used memory in bytes: 1917640; in megabytes: 1.828804 
+The runtime of bubble sort algorithm is 25 ms
 
-~CycleSort has executed.
-Used memory in bytes: 1990376; in megabytes: 1,898170 
-The runtime of cycle sort algorithm is 14 ms
+~CycleSort has executed.
+Used memory in bytes: 1918352; in megabytes: 1.829483 
+The runtime of cycle sort algorithm is 21 ms
 
-"uCannot proceed the calculation of sum in the interval of [0;10]. The array does not contain this amount of elements.
-%THE MAXIMUM PAIRED ITEM IS: 22
