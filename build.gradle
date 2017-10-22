@@ -32,6 +32,7 @@ jar {
     }
 }
 
+/*
 task codeCoverageReport(type: JacocoReport) {
     def coverageSourceDirs = [
             'src/main/java',
@@ -51,6 +52,7 @@ task codeCoverageReport(type: JacocoReport) {
         csv.enabled false
     }
 }
+*/
 
 codeCoverageReport.dependsOn {
     subprojects*.task(test)

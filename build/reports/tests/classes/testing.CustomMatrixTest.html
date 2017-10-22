@@ -3,17 +3,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta http-equiv="x-ua-compatible" content="IE=edge"/>
-<title>Test results - Class testing.UserArrayTest</title>
+<title>Test results - Class testing.CustomMatrixTest</title>
 <link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
 <link href="../css/style.css" rel="stylesheet" type="text/css"/>
 <script src="../js/report.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="content">
-<h1>Class testing.UserArrayTest</h1>
+<h1>Class testing.CustomMatrixTest</h1>
 <div class="breadcrumbs">
 <a href="../index.html">all</a> &gt; 
-<a href="../packages/testing.html">testing</a> &gt; UserArrayTest</div>
+<a href="../packages/testing.html">testing</a> &gt; CustomMatrixTest</div>
 <div id="summary">
 <table>
 <tr>
@@ -23,7 +23,7 @@
 <tr>
 <td>
 <div class="infoBox" id="tests">
-<div class="counter">10</div>
+<div class="counter">5</div>
 <p>tests</p>
 </div>
 </td>
@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.015s</div>
+<div class="counter">0.007s</div>
 <p>duration</p>
 </div>
 </td>
@@ -78,52 +78,27 @@
 </tr>
 </thead>
 <tr>
-<td class="success">arithmeticMean</td>
+<td class="success">checkZeroMatrix</td>
 <td>0s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
-<td class="success">checkNullArray</td>
+<td class="success">createMatrix</td>
 <td>0s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
-<td class="success">findModuleMinimized</td>
-<td>0s</td>
+<td class="success">obtainNewMatrix</td>
+<td>0.005s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
-<td class="success">findSumInInterval</td>
-<td>0.001s</td>
+<td class="success">printObtainedMatrix</td>
+<td>0.002s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
-<td class="success">geometricMean</td>
-<td>0s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">geometricMeanFailed</td>
-<td>0.001s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">largestByModule</td>
-<td>0.013s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">largestByModuleFailed</td>
-<td>0s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">maximumPairedItem</td>
-<td>0s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">pairedListNotNull</td>
+<td class="success">printZeroOrderMatrix</td>
 <td>0s</td>
 <td class="success">passed</td>
 </tr>
@@ -132,8 +107,39 @@
 <div id="tab1" class="tab">
 <h2>Standard output</h2>
 <span class="code">
-<pre>Cannot proceed the calculation of sum in the interval of [0;10]. The array does not contain this amount of elements.
-THE MAXIMUM PAIRED ITEM IS: 22
+<pre>The start square matrix is: 
+-919106045 273818159 977728123 -50647198 -1508463608 
+-1773450939 2109651982 -1086945499 151546628 1164472537 
+-500094847 -896494136 1428514409 156153462 60812900 
+833315396 1537652278 1897277258 -197828934 -381573010 
+489497228 -681464276 -1308863320 985899169 -1257276287 
+The obtained square matrix is: 
+-919106045  1  1  1  0  
+0  2109651982  0  0  0  
+0  0  1428514409  0  0  
+0  1  1  -197828934  0  
+1  0  0  1  -1257276287  
+The start square matrix is: 
+The start square matrix is: 
+-272603107 -1114659933 -778817352 1289560203 286124714 
+-209463484 898461778 -554682180 1336133666 -657922178 
+-1699928396 1762943592 1511843226 -629978355 -1959422185 
+-96264597 270175324 -772867368 -236309750 1778912330 
+-1413386244 -182386571 1477697705 1733658192 1069056425 
+The obtained square matrix is: 
+-272603107  0  0  1  1  
+1  898461778  0  1  0  
+0  1  1511843226  0  0  
+0  0  0  -236309750  1  
+0  1  1  1  1069056425  
+The start square matrix is: 
+1811321564 1254786041 422887077 284178026 -2078689532 
+1378426300 317196898 1064812829 -984582760 -1381641578 
+-1759996947 -1289248187 1145379538 -1151161431 -678595379 
+1493073384 -1451241866 207793713 -1034413698 -210551890 
+498760963 2075713185 987426764 -262358880 1609408548 
+The start square matrix is: 
+The obtained square matrix is: 
 </pre>
 </span>
 </div>

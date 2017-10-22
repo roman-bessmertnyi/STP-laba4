@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.CustomMatrixTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:41:31" hostname="Simple-and-Nice" time="0.007">
+  <properties/>
+  <testcase name="obtainNewMatrix" classname="testing.CustomMatrixTest" time="0.005"/>
+  <testcase name="checkZeroMatrix" classname="testing.CustomMatrixTest" time="0.0"/>
+  <testcase name="printObtainedMatrix" classname="testing.CustomMatrixTest" time="0.002"/>
+  <testcase name="createMatrix" classname="testing.CustomMatrixTest" time="0.0"/>
+  <testcase name="printZeroOrderMatrix" classname="testing.CustomMatrixTest" time="0.0"/>
+  <system-out><![CDATA[The start square matrix is: 
+-919106045 273818159 977728123 -50647198 -1508463608 
+-1773450939 2109651982 -1086945499 151546628 1164472537 
+-500094847 -896494136 1428514409 156153462 60812900 
+833315396 1537652278 1897277258 -197828934 -381573010 
+489497228 -681464276 -1308863320 985899169 -1257276287 
+The obtained square matrix is: 
+-919106045  1  1  1  0  
+0  2109651982  0  0  0  
+0  0  1428514409  0  0  
+0  1  1  -197828934  0  
+1  0  0  1  -1257276287  
+The start square matrix is: 
+The start square matrix is: 
+-272603107 -1114659933 -778817352 1289560203 286124714 
+-209463484 898461778 -554682180 1336133666 -657922178 
+-1699928396 1762943592 1511843226 -629978355 -1959422185 
+-96264597 270175324 -772867368 -236309750 1778912330 
+-1413386244 -182386571 1477697705 1733658192 1069056425 
+The obtained square matrix is: 
+-272603107  0  0  1  1  
+1  898461778  0  1  0  
+0  1  1511843226  0  0  
+0  0  0  -236309750  1  
+0  1  1  1  1069056425  
+The start square matrix is: 
+1811321564 1254786041 422887077 284178026 -2078689532 
+1378426300 317196898 1064812829 -984582760 -1381641578 
+-1759996947 -1289248187 1145379538 -1151161431 -678595379 
+1493073384 -1451241866 207793713 -1034413698 -210551890 
+498760963 2075713185 987426764 -262358880 1609408548 
+The start square matrix is: 
+The obtained square matrix is: 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

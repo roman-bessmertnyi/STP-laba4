@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.MetricsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:41:31" hostname="Simple-and-Nice" time="0.068">
+  <properties/>
+  <testcase name="gatherPerformance" classname="testing.MetricsTest" time="0.068"/>
+  <system-out><![CDATA[Used memory in bytes: 2482280; in megabytes: 2,367287 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
