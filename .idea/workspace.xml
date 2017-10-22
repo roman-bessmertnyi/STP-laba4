@@ -34,6 +34,8 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="laba4" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+<<<<<<< HEAD
+=======
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -46,6 +48,24 @@
                 <item name="laba4" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build setup" type="c8890929:TasksNode$1" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="laba4" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+<<<<<<< HEAD
+                <item name="build" type="c8890929:TasksNode$1" />
+=======
+                <item name="documentation" type="c8890929:TasksNode$1" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="laba4" type="f1a62948:ProjectNode" />
+<<<<<<< HEAD
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -56,6 +76,8 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="laba4" type="f1a62948:ProjectNode" />
+=======
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="other" type="c8890929:TasksNode$1" />
               </path>
@@ -78,6 +100,9 @@
             <state relative-caret-position="34">
               <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
@@ -98,9 +123,12 @@
       </file>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="codecov.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codecov.yml">
 =======
+=======
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
       <file leaf-file-name="Swapper.java" pinned="false" current-in-tab="false">
@@ -116,6 +144,9 @@
       <file leaf-file-name="Arrays_Task_TwoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_TwoTest.java">
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
@@ -129,8 +160,13 @@
       </file>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
+=======
+      <file leaf-file-name="Arrays_Task_OneTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_OneTest.java">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
       <file leaf-file-name="Arrays_Task_OneTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_OneTest.java">
@@ -144,6 +180,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="gradlew.bat" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradlew.bat">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,11 +193,19 @@
             <state relative-caret-position="323">
               <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+      <file leaf-file-name="GreeterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lab4/GreeterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="GreeterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lab4/GreeterTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -178,21 +223,40 @@
             <state relative-caret-position="255">
               <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+      <file leaf-file-name="Sorter_TimerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Sorter_TimerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Sorter_TimerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Sorter_TimerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
+=======
+      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lab4/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="CustomMatrixTest.class" pinned="false" current-in-tab="false">
@@ -243,6 +307,13 @@
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+      <file leaf-file-name="Merge_SortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Merge_SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
               <folding />
             </state>
           </provider>
@@ -250,11 +321,19 @@
       </file>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="MatrixSumTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/testing/MatrixSumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+=======
+      <file leaf-file-name="Quick_SortTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Quick_SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
       <file leaf-file-name="Quick_SortTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Quick_SortTest.java">
@@ -573,6 +652,7 @@
       <list>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/refactoring/SortingLibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/GreeterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/MatrixSumTest.java" />
@@ -694,12 +774,49 @@
     </option>
   </component>
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+        <option value="$PROJECT_DIR$/src/main/java/lab4/Arrays_Task_One.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lab4/Arrays_Task_Two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lab4/Greeter.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Swapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Swaper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lab4/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Bubble_Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Merge_Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Odd_Even_Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Quick_Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Selection_Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Shell_Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorters/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lab4/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lab4/Sorter_Timer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lab4/Sorter_TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lab4/GreeterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_TwoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_OneTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/SorterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/SwapperTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/Bubble_SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/Merge_SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/Odd_Even_SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/Quick_SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/Selection_SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sorters/Shell_SortTest.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
@@ -722,6 +839,10 @@
       <pane id="AndroidView" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
       <pane id="Scope" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
@@ -839,8 +960,13 @@
   </component>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager" selected="Gradle.laba4 [build]">
     <configuration name="All in refactored-labs_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="JAR Application.laba4-1.0.jar">
+    <configuration name="All in laba4_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
   <component name="RunManager" selected="JAR Application.laba4-1.0.jar">
     <configuration name="All in laba4_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -1033,6 +1159,7 @@
       <list size="5">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item index="0" class="java.lang.String" itemvalue="Gradle.laba4 [build]" />
         <item index="1" class="java.lang.String" itemvalue="Application.Main" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.All in refactored-labs_test" />
@@ -1041,12 +1168,17 @@
 =======
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <item index="0" class="java.lang.String" itemvalue="JAR Application.laba4-1.0.jar" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.All in laba4_test" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.Arrays_Task_TwoTest" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.MainTest" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
@@ -1069,6 +1201,7 @@
   <component name="TestHistory">
     <history-entry file="All_in_laba4_test - 2017.10.01 at 20h 35m 25s.xml">
       <configuration name="All in laba4_test" configurationId="JUnit" />
+<<<<<<< HEAD
     </history-entry>
     <history-entry file="Arrays_Task_TwoTest - 2017.10.01 at 20h 33m 18s.xml">
       <configuration name="Arrays_Task_TwoTest" configurationId="JUnit" />
@@ -1076,6 +1209,15 @@
     <history-entry file="MainTest - 2017.10.01 at 19h 00m 14s.xml">
       <configuration name="MainTest" configurationId="JUnit" />
     </history-entry>
+=======
+    </history-entry>
+    <history-entry file="Arrays_Task_TwoTest - 2017.10.01 at 20h 33m 18s.xml">
+      <configuration name="Arrays_Task_TwoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest - 2017.10.01 at 19h 00m 14s.xml">
+      <configuration name="MainTest" configurationId="JUnit" />
+    </history-entry>
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1085,6 +1227,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
@@ -1116,8 +1262,11 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
@@ -1134,6 +1283,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1153,10 +1303,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
 <<<<<<< HEAD
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -1172,10 +1325,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+=======
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/testing/CustomMatrixTest.java">
 =======
@@ -1278,19 +1434,33 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/SorterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/SwapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1313,10 +1483,25 @@
         <state relative-caret-position="323">
           <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Swaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Bubble_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1348,11 +1533,38 @@
 =======
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab4/Sorter_Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab4/Greeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Merge_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -1373,6 +1585,10 @@
 =======
     <entry file="file://$PROJECT_DIR$/src/main/java/lab4/Arrays_Task_Two.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab4/Arrays_Task_Two.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <state relative-caret-position="68">
           <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
@@ -1397,11 +1613,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Odd_Even_SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1440,12 +1660,17 @@
         <state relative-caret-position="-1275">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 =======
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/SorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Shell_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1465,10 +1690,17 @@
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/SwapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/testing/SortingLibraryTest.java">
@@ -1487,10 +1719,17 @@
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Bubble_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/refactoring/Main.java">
@@ -1516,6 +1755,10 @@
 =======
     <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Bubble_SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Bubble_SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
@@ -1526,11 +1769,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/circle.yml">
@@ -1546,6 +1793,10 @@
 =======
     <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Odd_Even_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Odd_Even_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <state relative-caret-position="34">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding />
@@ -1556,11 +1807,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/testing/MatrixSumTest.java">
@@ -1579,10 +1834,17 @@
         <state relative-caret-position="34">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Quick_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/out/test/classes/testing/CustomMatrixTest.class">
@@ -1604,6 +1866,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Selection_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1617,6 +1884,23 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Selection_SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Shell_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Shell_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -1632,10 +1916,17 @@
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Shell_SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/lab4/GreeterTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1652,10 +1943,17 @@
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorters/Swapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitattributes">
@@ -1665,10 +1963,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Sorter_TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -1680,10 +1985,17 @@
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_TwoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
@@ -1714,6 +2026,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_OneTest.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab4/Arrays_Task_OneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <state relative-caret-position="323">
           <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding />
@@ -1721,6 +2037,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lab4/GreeterTest.java">
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1731,6 +2050,7 @@
     </entry>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -1739,6 +2059,10 @@
 =======
     <entry file="file://$PROJECT_DIR$/src/test/java/lab4/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab4/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
         <state relative-caret-position="357">
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
@@ -1755,12 +2079,18 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
     <entry file="file://$PROJECT_DIR$/src/test/java/Sorters/Quick_SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 3a0c24f... *refactoring intensifies*
+=======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
 =======
 >>>>>>> parent of 3a0c24f... *refactoring intensifies*
