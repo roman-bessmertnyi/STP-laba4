@@ -7,11 +7,6 @@ environment:
   matrix:
   - JAVA_HOME: C:\Program Files\Java\jre1.8.0_141
 
-jdk:
-  - openjdk6
-  - oraclejdk7
-  - oraclejdk8
-
 before_install:
   - chmod +x gradlew
   - sudo apt-get install jq
