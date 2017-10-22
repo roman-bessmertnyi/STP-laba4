@@ -1,4 +1,4 @@
-# refactored-labs
+# laba4
 This repository contains gradle project combined of three previous labs for MPT course.
 
 <h3>CI and CodeCov widgets</hr>
